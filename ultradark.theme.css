@@ -1,0 +1,134 @@
+.theme-dark {
+  --background-primary: #000;
+  --background-secondary: #040404;
+  --background-secondary-alt: #020202;
+  --background-tertiary: #070707;
+  --background-floating: #010101;
+  --background-accent: #101010;
+  --scrollbar-auto-thumb: #fff;
+  --scrollbar-thin-thumb: #fff;
+  --scrollbar-auto-track: #000;
+  --background-modifier-hover: #090909;
+  --background-modifier-active: #090909;
+  --background-modifier-selected: #101010;
+  --interactive-muted: #303030;
+  --channeltextarea-background: #000;
+  --deprecated-text-input-border-hover: #101010;
+  --deprecated-quickswitcher-input-background: #070707;
+}
+/* Main theme controls (requires dark mode to be enabled) */
+
+.theme-dark .tabBody-3YRQ8W {
+  background-color: #000;
+}
+/* Background of friends list */
+
+/*.theme-dark .container-1r6BKw.themed-ANHk51 {
+  background: #030303;
+}
+ Background of chat menu */
+
+.theme-dark div.children-19S4PO::after {
+  display: none;
+}
+
+.theme-dark .scroller-2ZPeAD {
+  border-left: none;
+}
+
+.theme-dark .container-lRFx4q {
+  background: #040404;
+}
+
+.theme-dark .channelTextArea-rNsIhG {
+  border: 1px solid #101010;
+}
+
+.theme-dark .profileBannerPreview-3_l0Wd {
+  border: 1px solid #101010;
+}
+
+.theme-dark .textArea-1Lj-Ns {
+  border: 1px solid #070707;
+}
+
+.theme-dark .root-1gCeng {
+  background-color: #000;
+}
+
+.theme-dark .footer-2gL1pp {
+  background-color: #040404;
+}
+
+.theme-dark .uploadModal-2ifh8j {
+  background-color: #000;
+}
+
+.theme-dark .scrollableContainer-2NUZem {
+  border: 1px solid #101010;
+}
+
+.theme-dark .footer-3mqk7D {
+  background-color: #040404;
+}
+
+.theme-dark .spoilerText-3p6IlD.hidden-HHr2R9 {
+  background-color: #070707;
+}
+
+.theme-dark .spoilerText-3p6IlD {
+  background-color: #090909;
+}
+
+.theme-dark .searchAnswer-3Dz2-q, .theme-dark .searchFilter-2ESiM3 {
+  background-color: #101010;
+}
+
+.theme-dark .input-2_SIlA {
+  background-color: #070707;
+  border: 1px solid #101010;
+}
+
+.theme-dark .container-3ayLPN {
+  background-color: #040404;
+}
+
+.theme-dark .option-96V44q:after{
+  display: none;
+}
+
+.theme-dark .pageWrapper-1PgVDX {
+  background-color: #000;
+}
+
+.theme-dark .base-1x0h_U {
+  color: #fff;
+}
+
+.theme-dark .scroller-lynW5A {
+  background-color: #040404;
+}
+
+.theme-dark .selected-1Tbx07 {
+  background-color: #070707;
+}
+
+.theme-dark .container-UC8Ug1 {
+  background-color: #040404;
+}
+
+.theme-dark .colorStandard-2KCXvj {
+  color: #fff;
+}
+
+.theme-dark .colorHeaderSecondary-3Sp3Ft {
+  color: #fff;
+}
+
+.theme-dark .lookFilled-1Gx00P.colorGrey-2DXtkV {
+  background-color: #101010;
+}
+
+.theme-dark .lookFilled-1Gx00P.colorGrey-2DXtkV:hover {
+  background-color: #151515;
+}
