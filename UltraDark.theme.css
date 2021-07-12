@@ -1,3 +1,11 @@
+/**
+ * @name Ultra Dark
+ * @author DemetriusH
+ * @version 1.0.1
+ * @description Ultra dark discord theme for BD users. Requires theme to be set to 'dark'. Enjoy!
+ * @source https://github.com/Demetrius-H/UltraDark_BD
+ */
+
 .theme-dark {
   --background-primary: #000;
   --background-secondary: #040404;
@@ -21,12 +29,10 @@
 .theme-dark .tabBody-3YRQ8W {
   background-color: #000;
 }
-/* Background of friends list */
 
-/*.theme-dark .container-1r6BKw.themed-ANHk51 {
+.theme-dark .container-1r6BKw.themed-ANHk51 {
   background: #030303;
 }
- Background of chat menu */
 
 .theme-dark div.children-19S4PO::after {
   display: none;
