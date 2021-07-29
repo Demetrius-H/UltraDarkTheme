@@ -1,4 +1,4 @@
-# UltraDark_BD
+# UltraDarkTheme
 This is the README for the Ultra Dark theme.
 
 Make sure the theme is set to 'dark' before using. If not, the theme will not work.
